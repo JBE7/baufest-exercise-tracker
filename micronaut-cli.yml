@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: baufest.exercise.tracker
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
